@@ -7,8 +7,8 @@
 						<h1 class="mb-4 display-4">JJUG CCC 2019 Fall</h1>
 						<p class="lead">2019年11月23日（土）</p>
 						<p class="lead">ベルサール新宿グランドコンファレンスセンター</p>
-						<a href="https://jjug.doorkeeper.jp/events/88247" class="btn btn-secondary mx-1" target="_blank">申込</a>
-						<a href="https://docs.google.com/spreadsheets/d/e/2PACX-1vTlrXOi-KBSgTTgHUX0DBBlR9y4zWiWeKxWJsiOCQnDVaPY09VAL8vf4tiOrklrMYCGASY-LF_AyBIu/pubhtml?gid=1726105422&single=true" class="btn btn-info mx-1" target="_blank">タイムテーブル</a>
+						<a href="https://jjug.doorkeeper.jp/events/88247" class="btn btn-secondary mx-1" target="_blank" rel="noopener noreferrer">申込</a>
+						<a href="https://docs.google.com/spreadsheets/d/e/2PACX-1vTlrXOi-KBSgTTgHUX0DBBlR9y4zWiWeKxWJsiOCQnDVaPY09VAL8vf4tiOrklrMYCGASY-LF_AyBIu/pubhtml?gid=1726105422&single=true" class="btn btn-info mx-1" target="_blank" rel="noopener noreferrer">タイムテーブル</a>
 					</div>
 				</div>
 			</div>
@@ -68,7 +68,7 @@
 								<h2>託児所</h2>
 								<p>
 									<span>今回も託児室を設置いたします。託児室は事前申し込み制（先着順）となっております。</span><br>
-									<span>5月10日（金）17時までに、<a href="https://drive.google.com/file/d/1KCs2td6vd86kidxiSxaceYEmt3Mq9YwI/view?usp=sharing" target="_blank">応募要領</a>をご覧になりまして、<a href="https://cscs.alpha-co.com/event_yoyaku_kihon_form.jsp?E=1614439*7WzmV" target="_blank">こちら</a>からお申し込みください。</span>
+									<span>5月10日（金）17時までに、<a href="https://drive.google.com/file/d/1KCs2td6vd86kidxiSxaceYEmt3Mq9YwI/view?usp=sharing" target="_blank" rel="noopener noreferrer">応募要領</a>をご覧になりまして、<a href="https://cscs.alpha-co.com/event_yoyaku_kihon_form.jsp?E=1614439*7WzmV" target="_blank" rel="noopener noreferrer">こちら</a>からお申し込みください。</span>
 								</p>
 							</div>
 						</div>

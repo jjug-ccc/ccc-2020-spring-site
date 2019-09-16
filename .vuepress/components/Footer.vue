@@ -2,11 +2,11 @@
 	<footer class="page-footer">
 		<div class="container">
 			<div class="row">
-				<div class="p-4 col-md-7">
+				<div class="p-4 col-md-6">
 					<h3>個人情報の取り扱い</h3>
 					<p class="my-3"> お申込戴きました情報は個人を特定できる状態で、本団体以外の第三者に開示することはございません。 (法律により開示が要求された場合、または他のお客様、あるいはイベントに関係する団体・個人の権利などを守る場合に必要という判断が合理的にされる場合を除きます) </p>
 				</div>
-				<div class="p-4 col-md-5">
+				<div class="p-4 col-md-4">
 					<h3>About Us</h3>
 					<p>
 						<a href="http://www.java-users.jp/?page_id=7" target="_blank">JJUGについて</a>
@@ -16,6 +16,15 @@
 					</p>
 					<p>
 						<a href="http://www.java-users.jp/?page_id=166" target="_blank">幹事会メンバー</a>
+					</p>
+				</div>
+				<div class="p-4 col-md-2">
+					<h3>Follow</h3>
+					<p>
+						<a href="https://twitter.com/jjug" target="_blank" rel="noopener noreferrer">Twitter</a>
+					</p>
+					<p>
+						<a href="https://www.facebook.com/japanjug/" target="_blank" rel="noopener noreferrer">Facebook</a>
 					</p>
 				</div>
 			</div>
