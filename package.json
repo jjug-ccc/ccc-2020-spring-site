@@ -10,5 +10,9 @@
   "scripts": {
     "dev": "vuepress dev",
     "build": "vuepress build"
+  },
+  "engines": {
+    "node": "11.6.0",
+    "npm": "6.5.0"
   }
 }
