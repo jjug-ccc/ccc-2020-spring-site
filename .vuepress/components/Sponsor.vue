@@ -26,7 +26,14 @@
 					</div>
 				</div>
 				<div class="row">
-					<div class="mx-auto col-md-7 px-2 mb-4 col-6 px-lg-5">
+					<div class="mx-auto col-md-6 px-2 mb-4 col-6 px-lg-5">
+						<a href="https://azure.microsoft.com/en-us/overview/choose-azure-opensource/" target="_blank">
+							<div class="card project">
+								<img class="card-img" src="/assets/img/sponsor/microsoft.png" alt="日本マイクロソフト株式会社">
+							</div>
+						</a>
+					</div>
+					<div class="mx-auto col-md-6 px-2 mb-4 col-6 px-lg-5">
 						<a href="https://www.gmo.jp/" target="_blank">
 							<div class="card project">
 								<img class="card-img" src="/assets/img/sponsor/gmo_internet.png" alt="GMOインターネット株式会社">
@@ -45,13 +52,6 @@
 				</div>
 				<div class="row">
 					<div class="col-md-6 px-4 mb-4 col-6 px-lg-5">
-						<a href="https://www.cdata.com/jp/" target="_blank">
-							<div class="card project">
-								<img class="card-img" src="/assets/img/sponsor/cdata.png" alt="CData Software Japan 合同会社">
-							</div>
-						</a>
-					</div>
-					<div class="col-md-6 px-4 mb-4 col-6 px-lg-5">
 						<a href="https://engineering.linecorp.com/ja/" target="_blank">
 							<div class="card project">
 								<img class="card-img" src="/assets/img/sponsor/line.png" alt="LINE株式会社">
@@ -59,44 +59,16 @@
 						</a>
 					</div>
 					<div class="col-md-6 px-4 mb-4 col-6 px-lg-5">
-						<a href="https://www.ulsystems.co.jp/" target="_blank">
+						<a href="https://www.ibm.com/jp-ja" target="_blank">
 							<div class="card project">
-								<img class="card-img" src="/assets/img/sponsor/ulsystems.png" alt="ウルシステムズ株式会社">
+								<img class="card-img" src="/assets/img/sponsor/ibm.png" alt="日本アイ・ビー・エム株式会社">
 							</div>
 						</a>
 					</div>
 					<div class="col-md-6 px-4 mb-4 col-6 px-lg-5">
-						<a href="https://m3.recruitment.jp/engineer/" target="_blank">
+						<a href="https://www.smartnews.com/ja/" target="_blank">
 							<div class="card project">
-								<img class="card-img" src="/assets/img/sponsor/m3.png" alt="エムスリー株式会社">
-							</div>
-						</a>
-					</div>
-					<div class="col-md-6 px-4 mb-4 col-6 px-lg-5">
-						<a href="https://recruit.oisixradaichi.co.jp/" target="_blank">
-							<div class="card project">
-								<img class="card-img" src="/assets/img/sponsor/oisix.png" alt="オイシックス・ラ・大地株式会社">
-							</div>
-						</a>
-					</div>
-					<div class="col-md-6 px-4 mb-4 col-6 px-lg-5">
-						<a href="https://www.goldmansachs.com/japan/" target="_blank">
-							<div class="card project">
-								<img class="card-img" src="/assets/img/sponsor/goldman_sachs.png" alt="ゴールドマン・サックス">
-							</div>
-						</a>
-					</div>
-					<div class="col-md-6 px-4 mb-4 col-6 px-lg-5">
-						<a href="https://www.furyu.jp/recruit/career.html" target="_blank">
-							<div class="card project">
-								<img class="card-img" src="/assets/img/sponsor/furyu.png" alt="フリュー株式会社">
-							</div>
-						</a>
-					</div>
-					<div class="col-md-6 px-4 mb-4 col-6 px-lg-5">
-						<a href="https://recruit.interfactory.co.jp/" target="_blank">
-							<div class="card project">
-								<img class="card-img" src="/assets/img/sponsor/inter_factory.png" alt="株式会社インターファクトリー">
+								<img class="card-img" src="/assets/img/sponsor/smart_news.png" alt="スマートニュース株式会社">
 							</div>
 						</a>
 					</div>
@@ -108,12 +80,33 @@
 						</a>
 					</div>
 					<div class="col-md-6 px-4 mb-4 col-6 px-lg-5">
-						<a href="https://recruit-tech.co.jp/" target="_blank">
+						<a href="https://m3.recruitment.jp/engineer/" target="_blank">
 							<div class="card project">
-								<img class="card-img" src="/assets/img/sponsor/recruit.png" alt="株式会社リクルートテクノロジーズ">
+								<img class="card-img" src="/assets/img/sponsor/m3.png" alt="エムスリー株式会社">
 							</div>
 						</a>
 					</div>
+					<div class="col-md-6 px-4 mb-4 col-6 px-lg-5">
+						<a href="https://www.redhat.com/ja/global/japan?sc_cid=※701f2000000RsB9AAK※" target="_blank">
+							<div class="card project">
+								<img class="card-img" src="/assets/img/sponsor/redhat.png" alt="レッドハット株式会社">
+							</div>
+						</a>
+					</div>
+					<div class="col-md-6 px-4 mb-4 col-6 px-lg-5">
+						<a href="https://www.furyu.jp/recruit/career.html" target="_blank">
+							<div class="card project">
+								<img class="card-img" src="/assets/img/sponsor/furyu.png" alt="フリュー株式会社">
+							</div>
+						</a>
+					</div>
+					<!--<div class="col-md-6 px-4 mb-4 col-6 px-lg-5">-->
+						<!--<a href="https://recruit.interfactory.co.jp/" target="_blank">-->
+							<!--<div class="card project">-->
+								<!--<img class="card-img" src="/assets/img/sponsor/amazon_web_service.png" alt="アマゾン ウェブ サービス ジャパン株式会社">-->
+							<!--</div>-->
+						<!--</a>-->
+					<!--</div>-->
 				</div>
 			</div>
 		</div>
@@ -126,11 +119,9 @@
 				</div>
 				<div class="row">
 					<div class="mx-auto col-md-5 px-4 mb-4 col-6 px-lg-5">
-						<a href="https://red.ht/JJUG_CCCspring2019" target="_blank">
-							<div class="card project">
-								<img class="card-img" src="/assets/img/sponsor/redhat.png" alt="レッドハット株式会社">
-							</div>
-						</a>
+						<div class="card project">
+							<img class="card-img" src="/assets/img/sponsor/softbank.png" alt="ソフトバンク株式会社">
+						</div>
 					</div>
 				</div>
 			</div>
@@ -144,37 +135,16 @@
 				</div>
 				<div class="row">
 					<div class="col-md-4 px-4 mb-4 col-6 px-lg-5">
-						<a href="https://www.cdata.com/jp/" target="_blank">
+						<a href="https://samuraism.com/" target="_blank">
 							<div class="card project">
-								<img class="card-img" src="/assets/img/sponsor/cdata.png" alt="CData Software Japan 合同会社">
+								<img class="card-img" src="/assets/img/sponsor/samraizm.png" alt="株式会社サムライズム">
 							</div>
 						</a>
 					</div>
 					<div class="col-md-4 px-4 mb-4 col-6 px-lg-5">
-						<a href="https://www.gmo.jp/" target="_blank">
+						<a href="https://www.ibm.com/jp-ja" target="_blank">
 							<div class="card project">
-								<img class="card-img" src="/assets/img/sponsor/gmo_internet.png" alt="GMOインターネット株式会社">
-							</div>
-						</a>
-					</div>
-					<div class="col-md-4 px-4 mb-4 col-6 px-lg-5">
-						<a href="https://www.payara.fish/" target="_blank">
-							<div class="card project">
-								<img class="card-img" src="/assets/img/sponsor/payara.png" alt="Payara Services Ltd">
-							</div>
-						</a>
-					</div>
-					<div class="col-md-4 px-4 mb-4 col-6 px-lg-5">
-						<a href="https://sugarcorp.jp/" target="_blank">
-							<div class="card project">
-								<img class="card-img" src="/assets/img/sponsor/sugar.png" alt="SUGAR株式会社">
-							</div>
-						</a>
-					</div>
-					<div class="col-md-4 px-4 mb-4 col-6 px-lg-5">
-						<a href="https://m3.recruitment.jp/engineer/" target="_blank">
-							<div class="card project">
-								<img class="card-img" src="/assets/img/sponsor/m3.png" alt="エムスリー株式会社">
+								<img class="card-img" src="/assets/img/sponsor/ibm.png" alt="日本アイ・ビー・エム株式会社">
 							</div>
 						</a>
 					</div>
@@ -186,21 +156,37 @@
 						</a>
 					</div>
 					<div class="col-md-4 px-4 mb-4 col-6 px-lg-5">
-						<div class="card project">
-							<img class="card-img" src="/assets/img/sponsor/ibm.png" alt="日本アイ・ビー・エム株式会社">
-						</div>
-					</div>
-					<div class="col-md-4 px-4 mb-4 col-6 px-lg-5">
-						<a href="https://pivotal.io/" target="_blank">
+						<a href="https://m3.recruitment.jp/engineer/" target="_blank">
 							<div class="card project">
-								<img class="card-img" src="/assets/img/sponsor/pivotal.png" alt="Pivotal ジャパン株式会社">
+								<img class="card-img" src="/assets/img/sponsor/m3.png" alt="エムスリー株式会社">
 							</div>
 						</a>
 					</div>
 					<div class="col-md-4 px-4 mb-4 col-6 px-lg-5">
-						<a href="https://samuraism.com/" target="_blank">
+						<a href="https://www.marubeni-sys.com/" target="_blank">
 							<div class="card project">
-								<img class="card-img" src="/assets/img/sponsor/samraizm.png" alt="株式会社サムライズム">
+								<img class="card-img" src="/assets/img/sponsor/marubeni.png" alt="丸紅情報システムズ株式会社">
+							</div>
+						</a>
+					</div>
+					<div class="col-md-4 px-4 mb-4 col-6 px-lg-5">
+						<a href="https://www.techmatrix.co.jp/index.html" target="_blank">
+							<div class="card project">
+								<img class="card-img" src="/assets/img/sponsor/tech_matrix.png" alt="テクマトリックス株式会社">
+							</div>
+						</a>
+					</div>
+					<div class="col-md-4 px-4 mb-4 col-6 px-lg-5">
+						<a href="https://www.oracle.com/jp/index.html" target="_blank">
+							<div class="card project">
+								<img class="card-img" src="/assets/img/sponsor/oracle.png" alt="日本オラクル株式会社">
+							</div>
+						</a>
+					</div>
+					<div class="col-md-4 px-4 mb-4 col-6 px-lg-5">
+						<a href="https://www.gmo.jp/" target="_blank">
+							<div class="card project">
+								<img class="card-img" src="/assets/img/sponsor/gmo_internet.png" alt="GMOインターネット株式会社">
 							</div>
 						</a>
 					</div>
@@ -216,9 +202,9 @@
 				</div>
 				<div class="row">
 					<div class="mx-auto col-md-4 px-4 mb-4 col-5 px-lg-5">
-						<a href="https://recruit-tech.co.jp/" target="_blank">
+						<a href="https://www.techmatrix.co.jp/index.html" target="_blank">
 							<div class="card project">
-								<img class="card-img" src="/assets/img/sponsor/recruit.png" alt="株式会社リクルートテクノロジーズ">
+								<img class="card-img" src="/assets/img/sponsor/tech_matrix.png" alt="テクマトリックス株式会社">
 							</div>
 						</a>
 					</div>
@@ -255,42 +241,6 @@
 						<a href="https://www.hoshinoresorts.com/" target="_blank">
 							<div class="card project">
 								<img class="card-img" src="/assets/img/sponsor/hoshinoresort.png" alt="株式会社星野リゾート">
-							</div>
-						</a>
-					</div>
-				</div>
-			</div>
-		</div>
-		<div class="py-2 text-center">
-			<div class="container">
-				<div class="row">
-					<div class="col-md-12">
-						<h2 class="mb-4">Drink</h2>
-					</div>
-				</div>
-				<div class="row">
-					<div class="mx-auto col-md-4 px-4 mb-4 col-5 px-lg-5">
-						<a href="https://recruit.oisixradaichi.co.jp/" target="_blank">
-							<div class="card project">
-								<img class="card-img" src="/assets/img/sponsor/oisix.png" alt="オイシックス・ラ・大地株式会社">
-							</div>
-						</a>
-					</div>
-				</div>
-			</div>
-		</div>
-		<div class="py-2 text-center">
-			<div class="container">
-				<div class="row">
-					<div class="col-md-12">
-						<h2 class="mb-4">Management</h2>
-					</div>
-				</div>
-				<div class="row">
-					<div class="mx-auto col-md-4 px-4 mb-4 col-5 px-lg-5">
-						<a href="https://hey.jp/" target="_blank">
-							<div class="card project">
-								<img class="card-img" src="/assets/img/sponsor/hey.png" alt="ヘイ株式会社">
 							</div>
 						</a>
 					</div>
