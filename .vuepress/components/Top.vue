@@ -19,15 +19,17 @@
 					<div class="col-md-12">
 						<h2>概要</h2>
 						<p>JJUG CCCは毎年2回、春と秋に開催する日本最大のJavaコミュニティイベントです。Java関連の技術や事例に関する良質なセッションが行われ、また異なる分野で活躍するJava技術者が一堂に会する場ともなっています。ぜひご参加ください。</p>
+						<p>JJUG CCC is the largest Java community event organized by Japan Java User Group (JJUG), held twice a year in spring and autumn. It provides great sessions of Java-related technologies and practices, and brings together Java engineers from different disciplines.</p>
 						<dl>
-							<dt>主催</dt>
-							<dd>日本Javaユーザグループ</dd>
-							<dt>開催日時</dt>
-							<dd>2019年11月23日（土）</dd>
-							<dt>場所</dt>
+							<dt>主催 / Organizer</dt>
+							<dd>日本Javaユーザグループ / Japan Java User Group</dd>
+							<dt>開催日時 / Date</dt>
+							<dd>2019年11月23日（土） / 23rd Nov. 2019 (Sat)</dd>
+							<dt>場所 / Venue</dt>
 							<dd>ベルサール新宿グランド コンファレンスセンター 5F</dd>
-							<dt>参加費</dt>
-							<dd>無料</dd>
+							<dd>Sumitomofudousan Shinjuku Ground Tower 5F, 8-17-1, Nishishinjuku, Shinjuku Ku, Tokyo To, 160-0023, Japan</dd>
+							<dt>参加費 / Participation Fee</dt>
+							<dd>無料 / Free</dd>
 							<dt>ハッシュタグ</dt>
 							<dd>
 								<a href="https://twitter.com/search?q=%23jjug_ccc" target="blank">#jjug_ccc</a>（セッションごとのハッシュタグあり）
@@ -43,20 +45,19 @@
 					<div class="container">
 						<div class="row mb-3">
 							<div class="col-md-12">
-								<h2>JJUGとは</h2>
+								<h2>JJUGとは / About JJUG</h2>
 								<p>日本Javaユーザーグループ（Japan Java User Group/JJUG）は9000人以上の Javaエンジニアが参加する日本最大のJavaコミュニティです。<br/>以下のような活動を行っています。</p>
 								<dl>
-									<dt>ナイトセミナー</dt>
-									<dd>毎月1回夜に開催する勉強会</dd>
+									<dt>ナイトセミナー / Night Seminar</dt>
+									<dd>毎月1回夜に開催する勉強会 / Seminar held once a month</dd>
 									<dt>JJUG CCC</dt>
-									<dd>年2回（春と秋）に開催する1日カンファレンス</dd>
-									<dt>地方講師派遣</dt>
-									<dd>地方Javaコミュニティへの講師派遣</dd>
-									<dt>国際会議参加</dt>
-									<dd>無料</dd>
-									<dt>世界中のJUGとの交流</dt>
+									<dd>年2回（春と秋）に開催する1日カンファレンス / Full-day conference held twice a year (Spring and Autumn)</dd>
+									<dt>地方講師派遣 / Instructor Dispatch</dt>
+									<dd>地方Javaコミュニティへの講師派遣 / Dispatch of instructors to local Java communities in Japan</dd>
+									<dt>国際会議参加 / Participation in international conferences</dt>
+									<dt>世界中のJUGとの交流 / Making a relationship with international Java Communities</dt>
 									<dd>
-										詳しくはJJUGの<a href="http://www.java-users.jp/" target="blank">オフィシャルサイト</a>や<a href="https://jjug.doorkeeper.jp/" target="blank">コミュニティページ（DoorKeeper）</a>を確認してください。
+										詳しくはJJUGの<a href="http://www.java-users.jp/" target="blank">オフィシャルサイト</a>や<a href="https://jjug.doorkeeper.jp/" target="blank">コミュニティページ（DoorKeeper）</a>を確認してください。 / Please check JJUG <a href="http://www.java-users.jp/" target="blank">official website</a> and <a href="https://jjug.doorkeeper.jp/" target="blank">community page (DoorKeeper)</a> for more detail information.
 									</dd>
 								</dl>
 							</div>
