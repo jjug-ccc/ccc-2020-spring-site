@@ -45,6 +45,7 @@
 							<div class="col-md-12">
 								<h2>JJUGとは / About JJUG</h2>
 								<p>日本Javaユーザーグループ（Japan Java User Group/JJUG）は9000人以上の Javaエンジニアが参加する日本最大のJavaコミュニティです。<br/>以下のような活動を行っています。</p>
+								<p>The Japan Java User Group (JJUG) is the largest Java community in Japan with over 9000 Java engineers.<br/>The following activities are conducted.</p>
 								<dl>
 									<dt>ナイトセミナー / Night Seminar</dt>
 									<dd>毎月1回夜に開催する勉強会 / Seminar held once a month</dd>
