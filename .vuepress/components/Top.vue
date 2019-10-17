@@ -54,11 +54,9 @@
 									<dt>地方講師派遣 / Instructor Dispatch</dt>
 									<dd>地方Javaコミュニティへの講師派遣 / Dispatch of instructors to local Java communities in Japan</dd>
 									<dt>国際会議参加 / Participation in international conferences</dt>
-									<dt>世界中のJUGとの交流 / Making a relationship with international Java Communities</dt>
-									<dd>
-										詳しくはJJUGの<a href="http://www.java-users.jp/" target="blank">オフィシャルサイト</a>や<a href="https://jjug.doorkeeper.jp/" target="blank">コミュニティページ（DoorKeeper）</a>を確認してください。 / Please check JJUG <a href="http://www.java-users.jp/" target="blank">official website</a> and <a href="https://jjug.doorkeeper.jp/" target="blank">community page (DoorKeeper)</a> for more detail information.
-									</dd>
+									<dd>世界中のJUGとの交流 / Making a relationship with international Java Communities</dd>
 								</dl>
+								<p>詳しくはJJUGの<a href="http://www.java-users.jp/" target="blank">オフィシャルサイト</a>や<a href="https://jjug.doorkeeper.jp/" target="blank">コミュニティページ（DoorKeeper）</a>を確認してください。 / Please check JJUG <a href="http://www.java-users.jp/" target="blank">official website</a> and <a href="https://jjug.doorkeeper.jp/" target="blank">community page (DoorKeeper)</a> for more detail information.</p>
 							</div>
 						</div>
 					</div>
