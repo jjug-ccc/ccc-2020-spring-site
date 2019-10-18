@@ -17,11 +17,11 @@ meta:
   - name: og:type
     content: website
   - name: og:url
-    content: http://www.java-users.jp/ccc2019fall/
+    content: https://ccc2019fall.java-users.jp/
   - name: og:image
-    content: http://www.java-users.jp/cccimages/2019fall/og_image.png
+    content: https://ccc2019fall.java-users.jp/assets/img/og_image.png
   - name: og:site_name
-    content: http://www.java-users.jp/ccc2019fall/
+    content: https://ccc2019fall.java-users.jp/
   - name: og:description
     content: JJUG CCC 2019 Fall/Japan Java User Group Cross Community Conference 2019 Fall
 ---
