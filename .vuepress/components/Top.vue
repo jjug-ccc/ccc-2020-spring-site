@@ -78,22 +78,22 @@
 			<div class="container-fluid">
 				<div class="row">
 					<div class="p-0 col-md-4 col-6">
-						<img src="http://www.java-users.jp/cccimages/2019spring/gallery_1.jpg" class="img-fluid">
+						<img src="/assets/img/gallery_1.jpg" class="img-fluid">
 					</div>
 					<div class="col-md-4 col-6 p-0">
-						<img src="http://www.java-users.jp/cccimages/2019spring/gallery_2.jpg" class="img-fluid">
+						<img src="/assets/img/gallery_2.jpg" class="img-fluid">
 					</div>
 					<div class="col-md-4 col-6 p-0">
-						<img src="http://www.java-users.jp/cccimages/2019spring/gallery_3.jpg" class="img-fluid">
+						<img src="/assets/img/gallery_3.jpg" class="img-fluid">
 					</div>
 					<div class="col-md-4 col-6 p-0">
-						<img src="http://www.java-users.jp/cccimages/2019spring/gallery_4.jpg" class="img-fluid">
+						<img src="/assets/img/gallery_4.jpg" class="img-fluid">
 					</div>
 					<div class="col-md-4 col-6 p-0">
-						<img src="http://www.java-users.jp/cccimages/2019spring/gallery_5.jpg" class="img-fluid">
+						<img src="/assets/img/gallery_5.jpg" class="img-fluid">
 					</div>
 					<div class="col-md-4 col-6 p-0">
-						<img src="http://www.java-users.jp/cccimages/2019spring/gallery_6.jpg" class="img-fluid">
+						<img src="/assets/img/gallery_6.jpg" class="img-fluid">
 					</div>
 				</div>
 			</div>
