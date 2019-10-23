@@ -100,13 +100,13 @@
 							</div>
 						</a>
 					</div>
-					<!--<div class="col-md-6 px-4 mb-4 col-6 px-lg-5">-->
-						<!--<a href="https://recruit.interfactory.co.jp/" target="_blank">-->
-							<!--<div class="card project">-->
-								<!--<img class="card-img" src="/assets/img/sponsor/amazon_web_service.png" alt="アマゾン ウェブ サービス ジャパン株式会社">-->
-							<!--</div>-->
-						<!--</a>-->
-					<!--</div>-->
+					<div class="col-md-6 px-4 mb-4 col-6 px-lg-5">
+						<a href="https://aws.amazon.com/jp/developer/" target="_blank">
+							<div class="card project">
+								<img class="card-img" src="/assets/img/sponsor/amazon_web_service.png" alt="アマゾン ウェブ サービス ジャパン株式会社">
+							</div>
+						</a>
+					</div>
 				</div>
 			</div>
 		</div>
@@ -119,9 +119,11 @@
 				</div>
 				<div class="row">
 					<div class="mx-auto col-md-5 px-4 mb-4 col-6 px-lg-5">
-						<div class="card project">
-							<img class="card-img" src="/assets/img/sponsor/softbank.png" alt="ソフトバンク株式会社">
-						</div>
+						<a href="https://aws.amazon.com/jp/developer/" target="_blank">
+							<div class="card project">
+								<img class="card-img" src="/assets/img/sponsor/softbank.png" alt="ソフトバンク株式会社">
+							</div>
+						</a>
 					</div>
 				</div>
 			</div>
