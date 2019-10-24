@@ -7,6 +7,7 @@
 						<h1 class="mb-4 display-4">JJUG CCC 2019 Fall</h1>
 						<p class="lead">2019年11月23日（土）</p>
 						<p class="lead">ベルサール新宿グランドコンファレンスセンター</p>
+						<a href="https://jjug.doorkeeper.jp/events/98455" class="btn btn-secondary mx-1" target="_blank" rel="noopener noreferrer">申込</a>
 					</div>
 				</div>
 			</div>
