@@ -8,6 +8,7 @@ module.exports = {
 			{ text: 'Home', link: '/' },
 			{ text: 'スポンサー', link: '/sponsors/' },
 			{ text: 'セッション一覧', link: 'https://jjug-cfp.cfapps.io/conferences/4abde357-9994-4578-b760-a1698ff6f338' },
+			{ text: 'セッション一覧', link: '/sessions/' },
 		],
 		search: false,
 		searchMaxSuggestions: 10

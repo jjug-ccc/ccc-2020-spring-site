@@ -67,20 +67,15 @@
 		},
 		beforeMount() {
 			const self = this;
-			const baseUrl = 'http://www.java-users.jp/api/submission-page/2019Spring/';
-			axios.get(baseUrl + 'BEGINNER', {
-				headers: {
-					'Content-Type': 'application/json;charset=UTF-8',
-					'Access-Control-Allow-Origin': '*',
-				},
-				data: {}
-			}).then(response => {
+			const basePath = './assets/data/';
+
+			axios.get(basePath + 'sessions_beginner.json').then(response => {
 				self.beginnersSessions = response.data;
 			});
-			axios.get(baseUrl + 'INTERMEDIATE').then(response => {
+			axios.get(basePath + 'sessions_intermediate.json').then(response => {
 				self.intermediateSessions = response.data;
 			});
-			axios.get(baseUrl + 'ADVANCED').then(response => {
+			axios.get(basePath + 'sessions_advanced.json').then(response => {
 				self.advancedSessions = response.data;
 			});
 		}
