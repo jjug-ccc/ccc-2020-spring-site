@@ -160,7 +160,7 @@
 										</a>
 									</div>
 									<div class="col-md-6 px-4 mb-4 col-6 px-lg-5">
-										<a href="https://m3.recruitment.jp/engineer/" target="_blank">
+										<a href="https://jobs.m3.com/engineer/" target="_blank">
 											<div class="card project">
 												<img class="card-img" src="/assets/img/sponsor/m3.png" alt="エムスリー株式会社">
 											</div>
@@ -199,7 +199,7 @@
 								</div>
 								<div class="row">
 									<div class="mx-auto col-md-5 px-4 mb-4 col-6 px-lg-5">
-										<a href="https://aws.amazon.com/jp/developer/" target="_blank">
+										<a href="https://www.softbank.jp/corp/hr/" target="_blank">
 											<div class="card project">
 												<img class="card-img" src="/assets/img/sponsor/softbank.png" alt="ソフトバンク株式会社">
 											</div>
@@ -238,7 +238,7 @@
 										</a>
 									</div>
 									<div class="col-md-4 px-4 mb-4 col-6 px-lg-5">
-										<a href="https://m3.recruitment.jp/engineer/" target="_blank">
+										<a href="https://jobs.m3.com/engineer/" target="_blank">
 											<div class="card project">
 												<img class="card-img" src="/assets/img/sponsor/m3.png" alt="エムスリー株式会社">
 											</div>
