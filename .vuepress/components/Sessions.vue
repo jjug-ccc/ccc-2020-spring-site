@@ -12,7 +12,7 @@
 						</thead>
 						<tbody>
 						<tr v-for="session in beginnersSessions" class="d-sm-flex d-flex">
-							<td class="col-sm-9 col-6"><router-link :to="'sessions/' + session.identifier">{{ session.title }}</router-link></td><td class="col-sm-3 col-6">{{ session.speakerName }}</td>
+							<td class="col-sm-9 col-6"><a v-bind:href="createDescribeLink(session.identifier)" target="_blank" rel="noopener noreferrer">{{ session.title }}</a></td><td class="col-sm-3 col-6">{{ session.speakerName }}</td>
 						</tr>
 						</tbody>
 					</table>
@@ -27,7 +27,7 @@
 						</thead>
 						<tbody>
 						<tr v-for="session in intermediateSessions" class="d-sm-flex d-flex">
-							<td class="col-sm-9 col-6"><router-link :to="'sessions/' + session.identifier">{{ session.title }}</router-link></td><td class="col-sm-3 col-6">{{ session.speakerName }}</td>
+							<td class="col-sm-9 col-6"><a v-bind:href="createDescribeLink(session.identifier)" target="_blank" rel="noopener noreferrer">{{ session.title }}</a></td><td class="col-sm-3 col-6">{{ session.speakerName }}</td>
 						</tr>
 						</tbody>
 					</table>
@@ -42,7 +42,7 @@
 						</thead>
 						<tbody>
 						<tr v-for="session in advancedSessions" class="d-sm-flex d-flex">
-							<td class="col-sm-9 col-6"><router-link :to="'sessions/' + session.identifier">{{ session.title }}</router-link></td><td class="col-sm-3 col-6">{{ session.speakerName }}</td>
+							<td class="col-sm-9 col-6"><a v-bind:href="createDescribeLink(session.identifier)" target="_blank" rel="noopener noreferrer">{{ session.title }}</a></td><td class="col-sm-3 col-6">{{ session.speakerName }}</td>
 						</tr>
 						</tbody>
 					</table>
@@ -63,6 +63,11 @@
 				beginnersSessions: {},
 				intermediateSessions: {},
 				advancedSessions: {}
+			}
+		},
+		methods: {
+			createDescribeLink: function (identifier) {
+				return 'https://jjug-cfp.cfapps.io/submissions/' + identifier;
 			}
 		},
 		beforeMount() {
