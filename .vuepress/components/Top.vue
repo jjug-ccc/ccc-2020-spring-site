@@ -112,6 +112,13 @@
 												<img class="card-img" src="/assets/img/sponsor/microsoft.png" alt="日本マイクロソフト株式会社">
 											</div>
 										</a>
+										<div>
+											<a href="https://jjug-cfp.cfapps.io/submissions/46b0adaf-61d4-4ec8-9fc8-2bd7ba111102" target="_blank" rel="noopener noreferrer">セッション1</a>
+										</div>
+										<div>
+											<a href="https://jjug-cfp.cfapps.io/submissions/e2bca01c-4ac1-472a-9c9a-18e7274ce964" target="_blank" rel="noopener noreferrer">セッション2</a>
+										</div>
+
 									</div>
 									<div class="mx-auto col-md-6 px-2 mb-4 col-6 px-lg-5">
 										<a href="https://www.gmo.jp/" target="_blank">
@@ -119,6 +126,12 @@
 												<img class="card-img" src="/assets/img/sponsor/gmo_internet.png" alt="GMOインターネット株式会社">
 											</div>
 										</a>
+										<div>
+											<a href="https://jjug-cfp.cfapps.io/submissions/f11a490a-3ff1-4e5b-8612-1368cb742b63" target="_blank" rel="noopener noreferrer">セッション1</a>
+										</div>
+										<div>
+											<a href="https://jjug-cfp.cfapps.io/submissions/9f18bae0-85ad-42e5-bd88-1c0c3ecf985a" target="_blank" rel="noopener noreferrer">セッション2</a>
+										</div>
 									</div>
 								</div>
 							</div>
@@ -137,6 +150,7 @@
 												<img class="card-img" src="/assets/img/sponsor/line.png" alt="LINE株式会社">
 											</div>
 										</a>
+										<a href="https://jjug-cfp.cfapps.io/submissions/a1781bbe-d5de-4d8b-8226-2a385e713708" target="_blank" rel="noopener noreferrer">セッション</a>
 									</div>
 									<div class="col-md-6 px-4 mb-4 col-6 px-lg-5">
 										<a href="https://www.ibm.com/jp-ja" target="_blank">
@@ -144,6 +158,7 @@
 												<img class="card-img" src="/assets/img/sponsor/ibm.png" alt="日本アイ・ビー・エム株式会社">
 											</div>
 										</a>
+										<a href="https://jjug-cfp.cfapps.io//submissions/bc66034f-d71c-4ec2-91da-1e7d4071ee38" target="_blank" rel="noopener noreferrer">セッション</a>
 									</div>
 									<div class="col-md-6 px-4 mb-4 col-6 px-lg-5">
 										<a href="https://www.smartnews.com/ja/" target="_blank">
@@ -151,6 +166,12 @@
 												<img class="card-img" src="/assets/img/sponsor/smart_news.png" alt="スマートニュース株式会社">
 											</div>
 										</a>
+										<div>
+											<a href="https://jjug-cfp.cfapps.io/submissions/c02045f9-b045-4d41-874e-21853b24a99f" target="_blank" rel="noopener noreferrer">セッション1</a>
+										</div>
+										<div>
+											<a href="https://jjug-cfp.cfapps.io/submissions/e1ed69eb-e55d-421c-9d58-512395ecd475" target="_blank" rel="noopener noreferrer">セッション2</a>
+										</div>
 									</div>
 									<div class="col-md-6 px-4 mb-4 col-6 px-lg-5">
 										<a href="https://www.casareal.co.jp/ls/" target="_blank">
@@ -158,6 +179,7 @@
 												<img class="card-img" src="/assets/img/sponsor/casareal.png" alt="株式会社カサレアル">
 											</div>
 										</a>
+										<a href="https://jjug-cfp.cfapps.io/submissions/8b6ca4da-a6a0-4526-a874-7bb4e6ad91ee" target="_blank" rel="noopener noreferrer">セッション</a>
 									</div>
 									<div class="col-md-6 px-4 mb-4 col-6 px-lg-5">
 										<a href="https://jobs.m3.com/engineer/" target="_blank">
@@ -165,6 +187,7 @@
 												<img class="card-img" src="/assets/img/sponsor/m3.png" alt="エムスリー株式会社">
 											</div>
 										</a>
+										<a href="https://jjug-cfp.cfapps.io/submissions/3b9a73d1-1614-413a-9b62-85ebb4b096e6" target="_blank" rel="noopener noreferrer">セッション</a>
 									</div>
 									<div class="col-md-6 px-4 mb-4 col-6 px-lg-5">
 										<a href="https://www.redhat.com/ja/global/japan?sc_cid=※701f2000000RsB9AAK※" target="_blank">
@@ -172,6 +195,7 @@
 												<img class="card-img" src="/assets/img/sponsor/redhat.png" alt="レッドハット株式会社">
 											</div>
 										</a>
+										<a href="https://jjug-cfp.cfapps.io/submissions/59ce3c1c-a194-4f54-93a5-4ba2bbf0a313" target="_blank" rel="noopener noreferrer">セッション</a>
 									</div>
 									<div class="col-md-6 px-4 mb-4 col-6 px-lg-5">
 										<a href="https://www.furyu.jp/recruit/career.html" target="_blank">
@@ -179,6 +203,7 @@
 												<img class="card-img" src="/assets/img/sponsor/furyu.png" alt="フリュー株式会社">
 											</div>
 										</a>
+										<a href="https://jjug-cfp.cfapps.io/submissions/81658e1f-cd61-40a1-a808-24212a655173" target="_blank" rel="noopener noreferrer">セッション</a>
 									</div>
 									<div class="col-md-6 px-4 mb-4 col-6 px-lg-5">
 										<a href="https://aws.amazon.com/jp/developer/" target="_blank">
@@ -186,6 +211,7 @@
 												<img class="card-img" src="/assets/img/sponsor/amazon_web_service.png" alt="アマゾン ウェブ サービス ジャパン株式会社">
 											</div>
 										</a>
+										<a href="https://jjug-cfp.cfapps.io/submissions/f82463fd-e9b5-4f79-af0b-8807a4fd77d4" target="_blank" rel="noopener noreferrer">セッション</a>
 									</div>
 								</div>
 							</div>
@@ -204,6 +230,7 @@
 												<img class="card-img" src="/assets/img/sponsor/softbank.png" alt="ソフトバンク株式会社">
 											</div>
 										</a>
+										<a href="https://jjug-cfp.cfapps.io/submissions/d7ea35d2-a4a2-4516-b516-832f289f8adc" target="_blank" rel="noopener noreferrer">セッション</a>
 									</div>
 								</div>
 							</div>
