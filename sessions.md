@@ -13,11 +13,11 @@ meta:
   - name: twitter:site
     content: '@JJUG'
   - name: og:title
-    content: JJUG CCC 2019 Fall
+    content: JJUG CCC 2019 Fall | セッション一覧
   - name: og:type
     content: website
   - name: og:url
-    content: https://ccc2019fall.java-users.jp/
+    content: https://ccc2019fall.java-users.jp/sessions.html
   - name: og:image
     content: https://ccc2019fall.java-users.jp/assets/img/og_image.png
   - name: og:site_name
