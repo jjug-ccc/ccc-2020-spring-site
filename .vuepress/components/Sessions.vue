@@ -54,35 +54,23 @@
 </template>
 
 <script>
-	const axios = require('axios');
+	import beginnersSessions from '../public/assets/data/sessions_beginner.json';
+	import intermediateSessions from '../public/assets/data/sessions_intermediate.json';
+	import advancedSessions from '../public/assets/data/sessions_advanced.json';
 
 	export default {
 		name: "sessions",
 		data() {
 			return {
-				beginnersSessions: {},
-				intermediateSessions: {},
-				advancedSessions: {}
+				beginnersSessions: beginnersSessions,
+				intermediateSessions: intermediateSessions,
+				advancedSessions: advancedSessions
 			}
 		},
 		methods: {
 			createDescribeLink: function (identifier) {
 				return 'https://jjug-cfp.cfapps.io/submissions/' + identifier;
 			}
-		},
-		beforeMount() {
-			const self = this;
-			const basePath = './assets/data/';
-
-			axios.get(basePath + 'sessions_beginner.json').then(response => {
-				self.beginnersSessions = response.data;
-			});
-			axios.get(basePath + 'sessions_intermediate.json').then(response => {
-				self.intermediateSessions = response.data;
-			});
-			axios.get(basePath + 'sessions_advanced.json').then(response => {
-				self.advancedSessions = response.data;
-			});
 		}
 	}
 </script>
