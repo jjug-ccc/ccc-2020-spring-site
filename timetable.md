@@ -26,6 +26,13 @@ meta:
     content: JJUG CCC 2019 Fall/Japan Java User Group Cross Community Conference 2019 Fall
 ---
 
+# タイムテーブル
+タグの説明
+|タグ|説明|備考|
+|-------------|-------------|-------------|
+|🔰|ステップアップセッション|Javaを勉強し始めて数年以内の初級者が対象|
+|🌎|英語セッション||
+
 ## 10:00 - 10:45
 |Room|Title|Speaker|
 |-------------|-------------|-------------|
@@ -34,7 +41,7 @@ meta:
 |E+F [#ccc_e1](https://twitter.com/search?q=%23ccc_e1)|[JJUG Keynote: All people are VIP～Disney哲学から考えるDivercity](https://jjug-cfp.cfapps.io/submissions/6cc6929a-fc28-4e9f-a576-63afbf9e0661)|石田真彩|
 |G+H [#ccc_g1](https://twitter.com/search?q=%23ccc_g1)|[Gradle を完全に理解した人が、何も分からなくなるための第一歩](https://jjug-cfp.cfapps.io/submissions/78d3a14f-e2ab-4598-a138-d796b500cc48)|opengl-8080|
 |I [#ccc_i1](https://twitter.com/search?q=%23ccc_i1)|[JavaとGraalVMとPicocliで、素晴らしいネイティブコマンドラインアプリを作ろう](https://jjug-cfp.cfapps.io/submissions/712065a5-7282-4816-bcbd-ed71278e16d0)|Remko Popma|
-|L [#ccc_l1](https://twitter.com/search?q=%23ccc_l1)|[🌎Coding That Sparks Joy with Quarkus](https://jjug-cfp.cfapps.io/submissions/81a3ff7e-4d69-4a28-9977-d636ed3463c9)|Edson Yanaga|
+|L [#ccc_l1](https://twitter.com/search?q=%23ccc_l1)|[Coding That Sparks Joy with Quarkus](https://jjug-cfp.cfapps.io/submissions/81a3ff7e-4d69-4a28-9977-d636ed3463c9)|Edson Yanaga|
 |M [#ccc_m1a](https://twitter.com/search?q=%23ccc_m1a)|[BigQueryを用いたデータ分析基盤作成入門](https://jjug-cfp.cfapps.io/submissions/eeafbabd-f163-46a5-a120-7cc4702b205e)|Kotaro Nishiyama|
 |M [#ccc_m1b](https://twitter.com/search?q=%23ccc_m1b)|[バーコードリーダから飛ばされたJANコードを元にJavaからのAPI呼び出しで商品情報を取得してFirebaseに登録＆ロケットチャットに通知した話](https://jjug-cfp.cfapps.io/submissions/343eb350-aeef-4e54-b9f3-4c10375057e8)|taumaru|
 
