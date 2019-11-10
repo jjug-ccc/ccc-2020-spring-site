@@ -6,7 +6,8 @@ module.exports = {
 		logo: '/assets/img/jjug_logo.png',
 		nav: [
 			{ text: 'Home', link: '/' },
-			{ text: 'セッション一覧', link: '/sessions/' }
+			{ text: 'セッション一覧', link: '/sessions/' },
+			{ text: 'タイムテーブル', link: '/timetable/' }
 		],
 		search: false,
 		searchMaxSuggestions: 10
