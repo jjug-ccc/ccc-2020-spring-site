@@ -48,7 +48,7 @@ meta:
 ## 11:00 - 11:45
 |Room|Title|Speaker|
 |-------------|-------------|-------------|
-|A+B [#ccc_a2](https://twitter.com/search?q=%23ccc_a2)|[🔰こわくないソースコードリーディング生活](https://jjug-cfp.cfapps.io/submissions/ab567a88-2485-4d23-bb12-f96f7e1dfded)|進藤　遼| 
+|A+B [#ccc_c2](https://twitter.com/search?q=%23ccc_c2)|[🔰Javaで学ぶオブジェクト指向プログラミングの基礎知識](https://jjug-cfp.cfapps.io/submissions/8acb15cb-0a44-48c7-803d-5a8c284989af)|増田　亨|
 |C+D [#ccc_c2](https://twitter.com/search?q=%23ccc_c2)|[入門 例外](https://jjug-cfp.cfapps.io/submissions/482ae3af-1f49-4a4b-96fa-51b5ea3e4a5f)|持田真哉|
 |E+F [#ccc_e2](https://twitter.com/search?q=%23ccc_e2)|[🌎Oracle Keynote: GraalVM Vision and Roadmap](https://jjug-cfp.cfapps.io/submissions/db6c7b47-fc05-4936-9ae1-44aecb48f2a4)|Oleg Šelajev|
 |G+H [#ccc_g2](https://twitter.com/search?q=%23ccc_g2)|[Javaプログラマのための頑張らないGo入門](https://jjug-cfp.cfapps.io/submissions/5ff09bba-457d-4757-9b04-d669d4d380de)|yy_yank|
@@ -90,7 +90,7 @@ meta:
 |-------------|-------------|-------------|
 |A+B [#ccc_a5a](https://twitter.com/search?q=%23ccc_a5a)|[【仮】Java における乱数 (生成器) とのつき合い方](https://jjug-cfp.cfapps.io/submissions/e1ed69eb-e55d-421c-9d58-512395ecd475)|KOMIYA Atsushi|
 |A+B [#ccc_a5b](https://twitter.com/search?q=%23ccc_a5b)|[Use Kotlin scripts and custom DSL in your web apps](https://jjug-cfp.cfapps.io/submissions/c02045f9-b045-4d41-874e-21853b24a99f)|Freddie Wang (汪永興 ワンヨンシン)| 
-|C+D [#ccc_c5](https://twitter.com/search?q=%23ccc_c5)|[🔰Javaで学ぶオブジェクト指向プログラミングの基礎知識](https://jjug-cfp.cfapps.io/submissions/8acb15cb-0a44-48c7-803d-5a8c284989af)|増田　亨|
+|C+D [#ccc_c5](https://twitter.com/search?q=%23ccc_c5)|[🔰こわくないソースコードリーディング生活](https://jjug-cfp.cfapps.io/submissions/ab567a88-2485-4d23-bb12-f96f7e1dfded)|進藤　遼|
 |E+F [#ccc_e5](https://twitter.com/search?q=%23ccc_e5)|[AngularとSpring Bootで作るSPA + RESTful Web Serviceアプリケーション - 開発ツールやプロジェクト構成も含めて45分で丸わかり -](https://jjug-cfp.cfapps.io/submissions/8b6ca4da-a6a0-4526-a874-7bb4e6ad91ee)|菊池　真登／多田　真敏|
 |G+H [#ccc_g5](https://twitter.com/search?q=%23ccc_g5)|[Mavenの真実とウソ](https://jjug-cfp.cfapps.io/submissions/655c0759-cd88-4f9c-9c05-c3f0e9fb9989)|川島義隆|
 |I [#ccc_i5](https://twitter.com/search?q=%23ccc_i5)|[多言語対応の仮想マシンGraalVMが照らす未来](https://jjug-cfp.cfapps.io/submissions/b00492a1-04da-4434-b12b-49b803fb823f)|阪田 浩一|
