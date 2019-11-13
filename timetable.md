@@ -38,7 +38,7 @@ meta:
 |-------------|-------------|-------------|
 |A+B [#ccc_a1](https://twitter.com/search?q=%23ccc_a1)|[🔰試して学ぼう、IBMの”Cloud Native Starter for Java/Jakarta EE based Microservices”をKubernetes上でデプロイ！](https://jjug-cfp.cfapps.io/submissions/bc66034f-d71c-4ec2-91da-1e7d4071ee38)|小薗井康志| 
 |C+D [#ccc_c1](https://twitter.com/search?q=%23ccc_c1)|[Head toward Java 13 and Java 14](https://jjug-cfp.cfapps.io/submissions/cf294061-c8af-4dfd-9825-63b16ce09352)|KUBOTA Yuji|
-|E+F [#ccc_e1](https://twitter.com/search?q=%23ccc_e1)|[JJUG Keynote: All people are VIP～Disney哲学から考えるDivercity](https://jjug-cfp.cfapps.io/submissions/6cc6929a-fc28-4e9f-a576-63afbf9e0661)|石田真彩|
+|E+F [#ccc_e1](https://twitter.com/search?q=%23ccc_e1)|[JJUG Keynote: All people are VIP～Disney哲学から考えるDiversity](https://jjug-cfp.cfapps.io/submissions/6cc6929a-fc28-4e9f-a576-63afbf9e0661)|石田真彩|
 |G+H [#ccc_g1](https://twitter.com/search?q=%23ccc_g1)|[Gradle を完全に理解した人が、何も分からなくなるための第一歩](https://jjug-cfp.cfapps.io/submissions/78d3a14f-e2ab-4598-a138-d796b500cc48)|opengl-8080|
 |I [#ccc_i1](https://twitter.com/search?q=%23ccc_i1)|[JavaとGraalVMとPicocliで、素晴らしいネイティブコマンドラインアプリを作ろう](https://jjug-cfp.cfapps.io/submissions/712065a5-7282-4816-bcbd-ed71278e16d0)|Remko Popma|
 |L [#ccc_l1](https://twitter.com/search?q=%23ccc_l1)|[Coding That Sparks Joy with Quarkus](https://jjug-cfp.cfapps.io/submissions/81a3ff7e-4d69-4a28-9977-d636ed3463c9)|Edson Yanaga|
