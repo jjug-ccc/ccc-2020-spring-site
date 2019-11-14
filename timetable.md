@@ -27,7 +27,9 @@ meta:
 ---
 
 # タイムテーブル
-タグの説明
+[PDF版](https://drive.google.com/file/d/14c9jD7ykkZqmFsSH4_NvzbYvqlmti7Cr/view)  
+[スプレッドシート版](https://docs.google.com/spreadsheets/d/1zVGUvd3EcR3OfJROJ8uvPh7roNIbGiBUuuh8PXi2TUI/edit#gid=1726105422)
+
 |タグ|説明|備考|
 |-------------|-------------|-------------|
 |🔰|ステップアップセッション|Javaを勉強し始めて数年以内の初級者が対象|

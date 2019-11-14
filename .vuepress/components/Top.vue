@@ -8,6 +8,7 @@
 						<p class="lead">2019年11月23日（土）</p>
 						<p class="lead">ベルサール新宿グランドコンファレンスセンター</p>
 						<a href="https://jjug.doorkeeper.jp/events/98455" class="btn btn-secondary mx-1" target="_blank" rel="noopener noreferrer">申込</a>
+						<a href="https://docs.google.com/spreadsheets/d/1zVGUvd3EcR3OfJROJ8uvPh7roNIbGiBUuuh8PXi2TUI/edit#gid=1726105422" class="btn btn-info mx-1" target="_blank" rel="noopener noreferrer">タイムテーブル</a>
 					</div>
 				</div>
 			</div>
