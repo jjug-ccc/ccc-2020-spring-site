@@ -38,7 +38,7 @@ meta:
 |-------------|-------------|-------------|
 |A+B [#ccc_a1](https://twitter.com/search?q=%23ccc_a1)|[🔰試して学ぼう、IBMの”Cloud Native Starter for Java/Jakarta EE based Microservices”をKubernetes上でデプロイ！](https://jjug-cfp.cfapps.io/submissions/bc66034f-d71c-4ec2-91da-1e7d4071ee38)|小薗井康志| 
 |C+D [#ccc_c1](https://twitter.com/search?q=%23ccc_c1)|[Head toward Java 13 and Java 14](https://jjug-cfp.cfapps.io/submissions/cf294061-c8af-4dfd-9825-63b16ce09352)|KUBOTA Yuji|
-|E+F [#ccc_e1](https://twitter.com/search?q=%23ccc_e1)|[JJUG Keynote: All people are VIP～Disney哲学から考えるDiversity](https://jjug-cfp.cfapps.io/submissions/6cc6929a-fc28-4e9f-a576-63afbf9e0661)|石田真彩|
+|E+F [#ccc_e1](https://twitter.com/search?q=%23ccc_e1)|[【JJUG基調講演】All people are VIP～Disney哲学から考えるDiversity](https://jjug-cfp.cfapps.io/submissions/6cc6929a-fc28-4e9f-a576-63afbf9e0661)|石田真彩|
 |G+H [#ccc_g1](https://twitter.com/search?q=%23ccc_g1)|[Gradle を完全に理解した人が、何も分からなくなるための第一歩](https://jjug-cfp.cfapps.io/submissions/78d3a14f-e2ab-4598-a138-d796b500cc48)|opengl-8080|
 |I [#ccc_i1](https://twitter.com/search?q=%23ccc_i1)|[JavaとGraalVMとPicocliで、素晴らしいネイティブコマンドラインアプリを作ろう](https://jjug-cfp.cfapps.io/submissions/712065a5-7282-4816-bcbd-ed71278e16d0)|Remko Popma|
 |L [#ccc_l1](https://twitter.com/search?q=%23ccc_l1)|[Coding That Sparks Joy with Quarkus](https://jjug-cfp.cfapps.io/submissions/81a3ff7e-4d69-4a28-9977-d636ed3463c9)|Edson Yanaga|
@@ -50,7 +50,7 @@ meta:
 |-------------|-------------|-------------|
 |A+B [#ccc_c2](https://twitter.com/search?q=%23ccc_c2)|[🔰Javaで学ぶオブジェクト指向プログラミングの基礎知識](https://jjug-cfp.cfapps.io/submissions/8acb15cb-0a44-48c7-803d-5a8c284989af)|増田　亨|
 |C+D [#ccc_c2](https://twitter.com/search?q=%23ccc_c2)|[入門 例外](https://jjug-cfp.cfapps.io/submissions/482ae3af-1f49-4a4b-96fa-51b5ea3e4a5f)|持田真哉|
-|E+F [#ccc_e2](https://twitter.com/search?q=%23ccc_e2)|[🌎Oracle Keynote: GraalVM Vision and Roadmap](https://jjug-cfp.cfapps.io/submissions/db6c7b47-fc05-4936-9ae1-44aecb48f2a4)|Oleg Šelajev|
+|E+F [#ccc_e2](https://twitter.com/search?q=%23ccc_e2)|[🌎【Oracle基調講演】: GraalVM Vision and Roadmap](https://jjug-cfp.cfapps.io/submissions/db6c7b47-fc05-4936-9ae1-44aecb48f2a4)|Oleg Šelajev|
 |G+H [#ccc_g2](https://twitter.com/search?q=%23ccc_g2)|[Javaプログラマのための頑張らないGo入門](https://jjug-cfp.cfapps.io/submissions/5ff09bba-457d-4757-9b04-d669d4d380de)|yy_yank|
 |I [#ccc_i2](https://twitter.com/search?q=%23ccc_i2)|[🌎Jakarta EE: today and tomorrow](https://jjug-cfp.cfapps.io/submissions/72b1c706-3317-4096-801a-9ecc699e9e6b)|Dmitry Kornilov|
 |L [#ccc_l2](https://twitter.com/search?q=%23ccc_l2)|[🌎Gradle Ex Machina](https://jjug-cfp.cfapps.io/submissions/1833fdf1-be1d-4fd4-8678-b6388b7755e2)|Andres Almiray|
