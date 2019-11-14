@@ -59,8 +59,8 @@ meta:
 ## 12:00 - 12:45
 |Room|Title|Speaker|
 |-------------|-------------|-------------| 
-|C+D [#ccc_cl](https://twitter.com/search?q=%23ccc_cl)|[（初参加弁当付）JJUG初心者のためのJavaコミュニティのススメ](https://jjug-cfp.cfapps.io/submissions/0e70db94-9f14-4d24-8e1b-28af07ce9a49)|Amano Shohei／杉山貴章|
-|E+F [#ccc_el](https://twitter.com/search?q=%23ccc_el)|[（弁当付）Java によるクラウドネイティブの実現に向けて](https://jjug-cfp.cfapps.io/submissions/d7ea35d2-a4a2-4516-b516-832f289f8adc)|Shigeru Tatsuta|
+|C+D [#ccc_cl](https://twitter.com/search?q=%23ccc_cl)|[【ランチセッション】JJUG初心者のためのJavaコミュニティのススメ](https://jjug-cfp.cfapps.io/submissions/0e70db94-9f14-4d24-8e1b-28af07ce9a49)|Amano Shohei／杉山貴章|
+|E+F [#ccc_el](https://twitter.com/search?q=%23ccc_el)|[【ランチセッション】Java によるクラウドネイティブの実現に向けて](https://jjug-cfp.cfapps.io/submissions/d7ea35d2-a4a2-4516-b516-832f289f8adc)|Shigeru Tatsuta|
 
 ## 13:30 - 14:15
 |Room|Title|Speaker|
