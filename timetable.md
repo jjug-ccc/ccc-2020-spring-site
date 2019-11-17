@@ -64,13 +64,18 @@ meta:
 |C+D [#ccc_cl](https://twitter.com/search?q=%23ccc_cl)|[【ランチセッション】JJUG初心者のためのJavaコミュニティのススメ](https://jjug-cfp.cfapps.io/submissions/0e70db94-9f14-4d24-8e1b-28af07ce9a49)|Amano Shohei／杉山貴章|
 |E+F [#ccc_el](https://twitter.com/search?q=%23ccc_el)|[【ランチセッション】Java によるクラウドネイティブの実現に向けて](https://jjug-cfp.cfapps.io/submissions/d7ea35d2-a4a2-4516-b516-832f289f8adc)|Shigeru Tatsuta|
 
+## 12:45 - 13:15
+|Room|Title|Speaker|
+|-------------|-------------|-------------| 
+|K|ブーススポンサーによるLT（5分×5社）|ブーススポンサー|
+
 ## 13:30 - 14:15
 |Room|Title|Speaker|
 |-------------|-------------|-------------|
 |A+B [#ccc_a3](https://twitter.com/search?q=%23ccc_a3)|[最新：Azure Spring Cloud のご紹介](https://jjug-cfp.cfapps.io/submissions/e2bca01c-4ac1-472a-9c9a-18e7274ce964)|寺田　佳央| 
 |C+D [#ccc_c3](https://twitter.com/search?q=%23ccc_c3)|[Reliability Engineering Behind The Most Trusted Kafka Platform at LINE](https://jjug-cfp.cfapps.io/submissions/a1781bbe-d5de-4d8b-8226-2a385e713708)|Yuto Kawamura|
 |E+F [#ccc_e3](https://twitter.com/search?q=%23ccc_e3)|[🔰開け！ドメイン駆動設計の扉](https://jjug-cfp.cfapps.io/submissions/f11a490a-3ff1-4e5b-8612-1368cb742b63)|成瀬　允宣|
-|G+H [#ccc_g3](https://twitter.com/search?q=%23ccc_g3)|[Javaの起動速度といかに戦うか](https://jjug-cfp.cfapps.io/submissions/0a21b432-1ac4-41b9-aa90-d93ce9ad5029)|きしだ なおき|
+|G+H [#ccc_g3](https://twitter.com/search?q=%23ccc_g3)|[Mavenの真実とウソ](https://jjug-cfp.cfapps.io/submissions/655c0759-cd88-4f9c-9c05-c3f0e9fb9989)|川島義隆|
 |I [#ccc_i3](https://twitter.com/search?q=%23ccc_i3)|[🔰Javaで学ぶネットワークプログラミングの基礎](https://jjug-cfp.cfapps.io/submissions/e15cada1-6e74-41e7-8321-967db33f5055)|渡邉 一夫|
 |L [#ccc_l3](https://twitter.com/search?q=%23ccc_l3)|[🌎Modern Identity Management (in the Era of Serverless and Microservices)](https://jjug-cfp.cfapps.io/submissions/40715084-e516-4588-aad7-3557b5a6c2a4)|Mercedes Wyss|
 |M [#ccc_m3](https://twitter.com/search?q=%23ccc_m3)|[運用を支えるためのログを出すにはどうするか？](https://jjug-cfp.cfapps.io/submissions/32485968-6f05-45f0-af97-9a02b0e62cf9)|齋藤将也|
@@ -87,6 +92,11 @@ meta:
 |M [#ccc_m4a](https://twitter.com/search?q=%23ccc_m4a)|[JavaオンプレシステムをAKS + Quarkusに移行した話](https://jjug-cfp.cfapps.io/submissions/fb6dde1b-4925-446d-9ec5-5b2ebcd6b93d)|髙市 智章 (Takaichi Tomoaki)|
 |M [#ccc_m4b](https://twitter.com/search?q=%23ccc_m4b)|[元インフラエンジニアがSpringBoot2を用いてFW開発を学んでいる話](https://jjug-cfp.cfapps.io/submissions/19cebe44-18be-4802-80ac-1d212cc0d6b3)|山縣 京輔|
 
+## 15:20 - 15:40
+|Room|Title|Speaker|
+|-------------|-------------|------------| 
+|K|ブーススポンサーによるLT（5分×3社）|ブーススポンサー|
+
 ## 15:45 - 16:30
 |Room|Title|Speaker|
 |-------------|-------------|-------------|
@@ -94,8 +104,8 @@ meta:
 |A+B [#ccc_a5b](https://twitter.com/search?q=%23ccc_a5b)|[🌎Use Kotlin scripts and custom DSL in your web apps](https://jjug-cfp.cfapps.io/submissions/c02045f9-b045-4d41-874e-21853b24a99f)|Freddie Wang (汪永興 ワンヨンシン)| 
 |C+D [#ccc_c5](https://twitter.com/search?q=%23ccc_c5)|[🔰こわくないソースコードリーディング生活](https://jjug-cfp.cfapps.io/submissions/ab567a88-2485-4d23-bb12-f96f7e1dfded)|進藤　遼|
 |E+F [#ccc_e5](https://twitter.com/search?q=%23ccc_e5)|[AngularとSpring Bootで作るSPA + RESTful Web Serviceアプリケーション - 開発ツールやプロジェクト構成も含めて45分で丸わかり -](https://jjug-cfp.cfapps.io/submissions/8b6ca4da-a6a0-4526-a874-7bb4e6ad91ee)|菊池　真登／多田　真敏|
-|G+H [#ccc_g5](https://twitter.com/search?q=%23ccc_g5)|[Mavenの真実とウソ](https://jjug-cfp.cfapps.io/submissions/655c0759-cd88-4f9c-9c05-c3f0e9fb9989)|川島義隆|
-|I [#ccc_i5](https://twitter.com/search?q=%23ccc_i5)|[多言語対応の仮想マシンGraalVMが照らす未来](https://jjug-cfp.cfapps.io/submissions/b00492a1-04da-4434-b12b-49b803fb823f)|阪田 浩一|
+|G+H [#ccc_g5](https://twitter.com/search?q=%23ccc_g5)|[Javaの起動速度といかに戦うか](https://jjug-cfp.cfapps.io/submissions/0a21b432-1ac4-41b9-aa90-d93ce9ad5029)|きしだ なおき|
+|I [#ccc_i5](https://twitter.com/search?q=%23ccc_i5)|[How to adapt MicroProfile API for general Web applications](https://jjug-cfp.cfapps.io/submissions/ff85ea9c-39df-4c91-ae65-2ae0db060162)|蓮沼　賢志|
 |L [#ccc_l5](https://twitter.com/search?q=%23ccc_l5)|アンカンファレンス||
 |M [#ccc_m5](https://twitter.com/search?q=%23ccc_m5)|[🌎Where is my cache? Architectural patterns for caching microservices by example](https://jjug-cfp.cfapps.io/submissions/78fb2704-4fed-4114-8e17-c5deb9284c5e)|Rafał Leszko|
 
@@ -107,7 +117,7 @@ meta:
 |C+D [#ccc_c6](https://twitter.com/search?q=%23ccc_c6)|[JavaでTracing](https://jjug-cfp.cfapps.io/submissions/59ce3c1c-a194-4f54-93a5-4ba2bbf0a313)|笹川 博幸|
 |E+F [#ccc_e6](https://twitter.com/search?q=%23ccc_e6)|[🔰JVM入門 -Javaプログラムが動く仕組み-](https://jjug-cfp.cfapps.io/submissions/0125f932-f455-4447-b534-ebe11d2f50d6)|Abe Asami (きの子)|
 |G+H [#ccc_g6](https://twitter.com/search?q=%23ccc_g6)|[Serverless時代のJavaについて](https://jjug-cfp.cfapps.io/submissions/f82463fd-e9b5-4f79-af0b-8807a4fd77d4)|下川　賢介|
-|I [#ccc_i6](https://twitter.com/search?q=%23ccc_i6)|[How to adapt MicroProfile API for general Web applications](https://jjug-cfp.cfapps.io/submissions/ff85ea9c-39df-4c91-ae65-2ae0db060162)|蓮沼　賢志|
+|I [#ccc_i6](https://twitter.com/search?q=%23ccc_i6)|[多言語対応の仮想マシンGraalVMが照らす未来](https://jjug-cfp.cfapps.io/submissions/b00492a1-04da-4434-b12b-49b803fb823f)|阪田 浩一|
 |L [#ccc_l6](https://twitter.com/search?q=%23ccc_l6)|アンカンファレンス||
 |M [#ccc_m6](https://twitter.com/search?q=%23ccc_m6)|[🌎The Good, the Bad and the Ugly of Java API design](https://jjug-cfp.cfapps.io/submissions/ebe7b5a1-ecbe-49cc-8a87-22ecb5484eac)|Miro Cupak|
 
