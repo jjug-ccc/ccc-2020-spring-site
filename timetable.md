@@ -50,7 +50,7 @@ meta:
 ## 11:00 - 11:45
 |Room|Title|Speaker|
 |-------------|-------------|-------------|
-|A+B [#ccc_c2](https://twitter.com/search?q=%23ccc_c2)|[🔰Javaで学ぶオブジェクト指向プログラミングの基礎知識](https://jjug-cfp.cfapps.io/submissions/8acb15cb-0a44-48c7-803d-5a8c284989af)|増田　亨|
+|A+B [#ccc_a2](https://twitter.com/search?q=%23ccc_a2)|[🔰Javaで学ぶオブジェクト指向プログラミングの基礎知識](https://jjug-cfp.cfapps.io/submissions/8acb15cb-0a44-48c7-803d-5a8c284989af)|増田　亨|
 |C+D [#ccc_c2](https://twitter.com/search?q=%23ccc_c2)|[入門 例外](https://jjug-cfp.cfapps.io/submissions/482ae3af-1f49-4a4b-96fa-51b5ea3e4a5f)|持田真哉|
 |E+F [#ccc_e2](https://twitter.com/search?q=%23ccc_e2)|[🌎【Oracle基調講演】Rethinking Runtime Efficiency with GraalVM](https://jjug-cfp.cfapps.io/submissions/db6c7b47-fc05-4936-9ae1-44aecb48f2a4)|Oleg Šelajev|
 |G+H [#ccc_g2](https://twitter.com/search?q=%23ccc_g2)|[Javaプログラマのための頑張らないGo入門](https://jjug-cfp.cfapps.io/submissions/5ff09bba-457d-4757-9b04-d669d4d380de)|yy_yank|
