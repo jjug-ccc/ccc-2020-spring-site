@@ -67,8 +67,8 @@
 							<div class="col-md-12">
 								<h2>託児所</h2>
 								<p>
-									<span>今回も託児室を設置いたします。託児室は事前申し込み制（先着順）となっております。</span><br>
-									<span>11月14日（木）17時までに、<a href="https://drive.google.com/open?id=1aMDfLdeqaXHiBqCAOTLmeBjXuX6zq5n8" target="_blank" rel="noopener noreferrer">応募要領</a>をご覧になりまして、<a href="https://cscs.alpha-co.com/event_yoyaku_kihon_form.jsp?E=1787835*Vsvy9" target="_blank" rel="noopener noreferrer">こちら</a>からお申し込みください。</span>
+									<span>今回も託児室を設置いたします。託児室は事前申し込み制（先着順）となっております。<a href="https://drive.google.com/open?id=1aMDfLdeqaXHiBqCAOTLmeBjXuX6zq5n8" target="_blank" rel="noopener noreferrer">応募要領</a></span><br>
+									<span>11月14日（木）17時までをもって申し込みを締め切らせていただきました。</span>
 								</p>
 							</div>
 						</div>
