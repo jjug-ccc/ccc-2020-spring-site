@@ -38,11 +38,11 @@ meta:
 ## 10:00 - 10:45
 |Room|Title|Speaker|
 |-------------|-------------|-------------|
-|A+B [#ccc_a1](https://twitter.com/search?q=%23ccc_a1)|[🔰試して学ぼう、IBMの”Cloud Native Starter for Java/Jakarta EE based Microservices”をKubernetes上でデプロイ！](https://jjug-cfp.cfapps.io/submissions/bc66034f-d71c-4ec2-91da-1e7d4071ee38)|小薗井康志| 
+|A+B [#ccc_a1](https://twitter.com/search?q=%23ccc_a1)|[🔰試して学ぼう、Java EE アプリケーションをOpenShift(Minishift)でデプロイ！](https://jjug-cfp.cfapps.io/submissions/bc66034f-d71c-4ec2-91da-1e7d4071ee38)|小薗井康志| 
 |C+D [#ccc_c1](https://twitter.com/search?q=%23ccc_c1)|[Head toward Java 13 and Java 14](https://jjug-cfp.cfapps.io/submissions/cf294061-c8af-4dfd-9825-63b16ce09352)|KUBOTA Yuji|
 |E+F [#ccc_e1](https://twitter.com/search?q=%23ccc_e1)|[【JJUG基調講演】All people are VIP～Disney哲学から考えるDiversity](https://jjug-cfp.cfapps.io/submissions/6cc6929a-fc28-4e9f-a576-63afbf9e0661)|石田真彩|
 |G+H [#ccc_g1](https://twitter.com/search?q=%23ccc_g1)|[🔰Gradle を完全に理解した人が、何も分からなくなるための第一歩](https://jjug-cfp.cfapps.io/submissions/78d3a14f-e2ab-4598-a138-d796b500cc48)|opengl-8080|
-|I [#ccc_i1](https://twitter.com/search?q=%23ccc_i1)|[JavaとGraalVMとPicocliで、素晴らしいネイティブコマンドラインアプリを作ろう](https://jjug-cfp.cfapps.io/submissions/712065a5-7282-4816-bcbd-ed71278e16d0)|Remko Popma|
+|I [#ccc_i1](https://twitter.com/search?q=%23ccc_i1)|[JavaとGraalVMとPicocliで、ときめくネイティブコマンドラインアプリを作ろう](https://jjug-cfp.cfapps.io/submissions/712065a5-7282-4816-bcbd-ed71278e16d0)|Remko Popma|
 |L [#ccc_l1](https://twitter.com/search?q=%23ccc_l1)|🌎[Coding That Sparks Joy with Quarkus](https://jjug-cfp.cfapps.io/submissions/81a3ff7e-4d69-4a28-9977-d636ed3463c9)|Edson Yanaga|
 |M [#ccc_m1a](https://twitter.com/search?q=%23ccc_m1a)|[BigQueryを用いたデータ分析基盤作成入門](https://jjug-cfp.cfapps.io/submissions/eeafbabd-f163-46a5-a120-7cc4702b205e)|Kotaro Nishiyama|
 |M [#ccc_m1b](https://twitter.com/search?q=%23ccc_m1b)|[バーコードリーダから飛ばされたJANコードを元にJavaからのAPI呼び出しで商品情報を取得してFirebaseに登録＆ロケットチャットに通知した話](https://jjug-cfp.cfapps.io/submissions/343eb350-aeef-4e54-b9f3-4c10375057e8)|taumaru|
