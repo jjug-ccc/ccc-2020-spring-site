@@ -126,7 +126,7 @@ meta:
 |-------------|-------------|-------------|
 |A+B [#ccc_a7](https://twitter.com/search?q=%23ccc_a7)|[分散トレーシングの技術選定・OSS 貢献と Stackdriver Tracer での性能可視化・改善](https://jjug-cfp.cfapps.io/submissions/3b9a73d1-1614-413a-9b62-85ebb4b096e6)|矢崎 聖也／大和 康平| 
 |C+D [#ccc_c7](https://twitter.com/search?q=%23ccc_c7)|[Swagger ではない OpenAPI Specification 3.0 による API サーバー開発](https://jjug-cfp.cfapps.io/submissions/92e3117f-d911-4674-b97b-581813cfa0dc)|Tetsuya Morimoto|
-|G+H [#ccc_e7](https://twitter.com/search?q=%23ccc_g7)|[🔰DIコンテナ入門](https://jjug-cfp.cfapps.io/submissions/a5ba98a8-bad4-4122-bd61-85f89716c81e)|うらがみ|
+|G+H [#ccc_g7](https://twitter.com/search?q=%23ccc_g7)|[🔰DIコンテナ入門](https://jjug-cfp.cfapps.io/submissions/a5ba98a8-bad4-4122-bd61-85f89716c81e)|うらがみ|
 |I [#ccc_i7](https://twitter.com/search?q=%23ccc_i7)|[🌎JVMs in Containers: Best Practices](https://jjug-cfp.cfapps.io/submissions/9ee47678-bca0-44a5-8252-b48544125f59)|David Delabassee|
 |L [#ccc_l7](https://twitter.com/search?q=%23ccc_l7)|アンカンファレンス||
 |M [#ccc_m7](https://twitter.com/search?q=%23ccc_m7)|[🌎Oops-Less Operation](https://jjug-cfp.cfapps.io/submissions/4eec4367-7a2f-484b-8fe0-821cd28da6ab)|Chris Engelbert|
