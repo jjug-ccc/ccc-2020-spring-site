@@ -119,7 +119,7 @@ meta:
 |G+H [#ccc_g6](https://twitter.com/search?q=%23ccc_g6)|[Serverless時代のJavaについて](https://jjug-cfp.cfapps.io/submissions/f82463fd-e9b5-4f79-af0b-8807a4fd77d4)|下川　賢介|
 |I [#ccc_i6](https://twitter.com/search?q=%23ccc_i6)|[多言語対応の仮想マシンGraalVMが照らす未来](https://jjug-cfp.cfapps.io/submissions/b00492a1-04da-4434-b12b-49b803fb823f)|阪田 浩一|
 |L [#ccc_l6](https://twitter.com/search?q=%23ccc_l6)|アンカンファレンス||
-|M [#ccc_m6](https://twitter.com/search?q=%23ccc_m6)|[🌎The Good, the Bad and the Ugly of Java API design](https://jjug-cfp.cfapps.io/submissions/ebe7b5a1-ecbe-49cc-8a87-22ecb5484eac)|Miro Cupak|
+|M [#ccc_m6](https://twitter.com/search?q=%23ccc_m6)|Evaluating ZGC with HBase|吉田真也|
 
 ## 17:45 - 18:30
 |Room|Title|Speaker|
