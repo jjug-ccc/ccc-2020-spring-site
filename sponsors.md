@@ -3,9 +3,9 @@ title: スポンサー
 lang: ja
 meta:
   - name: description
-    content: JJUG CCC 2019 Fall/Japan Java User Group Cross Community Conference 2019 Fall
+    content: JJUG CCC 2020 Spirng/Japan Java User Group Cross Community Conference 2020 Spring
   - name: keywords
-    content: JJUG, Java, JJUG CCC 2019 Fall
+    content: JJUG, Java, JJUG CCC 2020 Sprign
   - name: author
     content: JJUG
   - name: twitter:card
@@ -13,17 +13,17 @@ meta:
   - name: twitter:site
     content: '@JJUG'
   - name: og:title
-    content: JJUG CCC 2019 Fall | スポンサー
+    content: JJUG CCC 2020 Spirng | スポンサー
   - name: og:type
     content: website
   - name: og:url
-    content: https://ccc2019fall.java-users.jp/sponsors/
+    content: https://ccc2020spinrgr.java-users.jp/sponsors/
   - name: og:image
-    content: https://ccc2019fall.java-users.jp/assets/img/og_image.png
+    content: https://ccc2020spring.java-users.jp/assets/img/og_image.png
   - name: og:site_name
-    content: https://ccc2019fall.java-users.jp/
+    content: https://ccc2020srping.java-users.jp/
   - name: og:description
-    content: JJUG CCC 2019 Fall/Japan Java User Group Cross Community Conference 2019 Fall
+    content: JJUG CCC 2020 Sprin/Japan Java User Group Cross Community Conference 2020 Spring
 ---
 <Sponsor/>
 <Footer/>
