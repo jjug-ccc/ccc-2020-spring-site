@@ -1,0 +1,43 @@
+html, body {
+    height: 100%;
+}
+
+a {
+    color: darkolivegreen;
+}
+
+.height-max {
+    height: 100%;
+}
+
+.uk-background-primary {
+    background-color: darkolivegreen;
+}
+
+.uk-card-default {
+    background: darkolivegreen;
+}
+
+.uk-text-white {
+    color: white;
+}
+
+.uk-text-antiquewhite {
+    color: antiquewhite;
+}
+
+.uk-section-antiquewhite {
+    background-color: antiquewhite;
+}
+
+.uk-section-darkolivegreen {
+    background-color: darkolivegreen;
+}
+
+.uk-section-white {
+    background-color: white;
+}
+
+.uk-copyright-color {
+    background-color: darkolivegreen;
+}
