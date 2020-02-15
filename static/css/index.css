@@ -3,7 +3,7 @@ html, body {
 }
 
 a {
-    color: darkolivegreen;
+    color: hotpink;
 }
 
 .height-max {
@@ -11,11 +11,11 @@ a {
 }
 
 .uk-background-primary {
-    background-color: darkolivegreen;
+    background-color: #ffcce5;
 }
 
 .uk-card-default {
-    background: darkolivegreen;
+    background: #ffcce5;
 }
 
 .uk-text-white {
@@ -26,12 +26,8 @@ a {
     color: antiquewhite;
 }
 
-.uk-section-antiquewhite {
-    background-color: antiquewhite;
-}
-
-.uk-section-darkolivegreen {
-    background-color: darkolivegreen;
+.uk-section-palevioletred {
+    background-color: palevioletred;
 }
 
 .uk-section-white {
@@ -39,5 +35,5 @@ a {
 }
 
 .uk-copyright-color {
-    background-color: darkolivegreen;
+    background-color: #ffcce5;
 }
