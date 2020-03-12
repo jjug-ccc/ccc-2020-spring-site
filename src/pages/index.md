@@ -1,12 +1,9 @@
 ---
 templateKey: 'home-page'
-title: Gatsby Starter Business
-meta_title: Home | Gatsby Starter Business
+title: JJUG CCC 2020 Spring
+meta_title: Home | JJUG CCC 2020 Spring
 meta_description: >-
-  Cum sociis natoque penatibus et magnis dis parturient montes, nascetur
-  ridiculus mus. Aenean eu leo quam. Pellentesque ornare sem lacinia quam
-  venenatis vestibulum. Sed posuere consectetur est at lobortis. Cras mattis
-  consectetur purus sit amet fermentum.
+  JJUG CCC 2020 Spring/Japan Java User Group Cross Community Conference 2020 Spring
 heading: Lorem ipsum dolor sit amet
 description: >-
   Neque porro quisquam est qui dolorem ipsum quia dolor sit amet, consectetur,
