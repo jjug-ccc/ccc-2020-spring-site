@@ -1,19 +1,19 @@
 module.exports = {
-  siteTitle: 'Gatsby Starter Business', // Site title.
-  siteTitleAlt: 'Business', // Alternative site title for SEO.
-  siteLogo: '/icons/icon-512x512.png', // Logo used for SEO and manifest.
-  siteUrl: 'https://gatsby-starter-business.netlify.com', // Domain of your website without pathPrefix.
-  pathPrefix: '', // Prefixes all links. For cases when deployed to example.github.io/gatsby-starter-business/.
-  siteDescription: 'Leverage Gatsby Business Starter for your Business.', // Website description used for RSS feeds/meta description tag.
+  siteTitle: 'JJUG CCC 2020 Spring',
+  siteTitleAlt: 'JJUG CCC',
+  siteLogo: '/icons/icon-512x512.png',
+  siteUrl: 'https://ccc2020spring.java-users.jp/',
+  pathPrefix: '',
+  siteDescription: 'JJUG CCC 2020 Spring/Japan Java User Group Cross Community Conference 2020 Spring',
   siteRss: '/rss.xml',
-  siteFBAppID: '', // FB Application ID for using app insights
-  googleTagManagerID: '', // GTM tracking ID.
-  disqusShortname: 'gatsby-business-starter', // Disqus shortname.
-  userName: 'Vaibhav Sharma',
-  userTwitter: 'vaibhaved',
-  userLocation: 'Delhi NCR, India',
-  userDescription: '',
-  copyright: 'Copyright © Gatsby Starter Business 2018-2019. All Rights Reserved.', // Copyright string for the footer of the website and RSS feed.
-  themeColor: '#00d1b2', // Used for setting manifest and progress theme colors.
-  backgroundColor: '#ffffff', // Used for setting manifest background color.
+  siteFBAppID: '',
+  googleTagManagerID: '',
+  disqusShortname: 'jjug-ccc-2020-spring',
+  userName: 'JJUG',
+  userTwitter: 'JJUG',
+  userLocation: 'Tokyo',
+  userDescription: 'Japan Java User Group',
+  copyright: 'Copyright © 2007-2020 JJUG - All rights reserved.',
+  themeColor: '#DB7093',
+  backgroundColor: '#ffffff',
 }
