@@ -3,6 +3,7 @@ import Helmet from 'react-helmet'
 import Offerings from '../Offerings'
 import Testimonials from '../Testimonials'
 import PropTypes from 'prop-types'
+import CccDescription from "../CccDescription";
 
 const HomePageTemplate = ({
   title,
@@ -35,20 +36,21 @@ const HomePageTemplate = ({
     </section>
     <section className='section section--gradient'>
       <div className='container'>
-
         <div className='section'>
           <div className='columns'>
             <div className='column is-10 is-offset-1'>
               <div className='content'>
+                <h3 className='has-text-weight-semibold is-size-3'>開催概要 / Description</h3>
+                <CccDescription/>
+                <h3 className='has-text-weight-semibold is-size-3'>JJUGについて / About JJUG</h3>
+                <Testimonials testimonials={testimonials} />
+                <Offerings gridItems={offerings.blurbs} />
                 <div>
                   <h3 className='has-text-weight-semibold is-size-2'>
                     {heading}
                   </h3>
                   <p>{description}</p>
                 </div>
-                <Offerings gridItems={offerings.blurbs} />
-                <h2 className='has-text-weight-semibold is-size-2'>Testimonials</h2>
-                <Testimonials testimonials={testimonials} />
               </div>
             </div>
           </div>
@@ -64,11 +66,11 @@ HomePageTemplate.propTypes = {
   meta_description: PropTypes.string,
   heading: PropTypes.string,
   description: PropTypes.string,
+  cccDescription: PropTypes.string,
   offerings: PropTypes.shape({
     blurbs: PropTypes.array,
   }),
   testimonials: PropTypes.array,
-
-}
+};
 
 export default HomePageTemplate
