@@ -4,6 +4,7 @@ import Offerings from '../Offerings'
 import Testimonials from '../Testimonials'
 import PropTypes from 'prop-types'
 import CccDescription from "../CccDescription";
+import AboutJjug from "../AboutJjug";
 
 const HomePageTemplate = ({
   title,
@@ -43,6 +44,7 @@ const HomePageTemplate = ({
                 <h3 className='has-text-weight-semibold is-size-3'>開催概要 / Description</h3>
                 <CccDescription/>
                 <h3 className='has-text-weight-semibold is-size-3'>JJUGについて / About JJUG</h3>
+                <AboutJjug/>
                 <Testimonials testimonials={testimonials} />
                 <Offerings gridItems={offerings.blurbs} />
                 <div>
