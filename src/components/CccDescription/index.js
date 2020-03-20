@@ -17,7 +17,7 @@ const CccDescription = () => (
             <dt>参加費 / Participation Fee</dt>
             <dd>無料 / Free</dd>
             <dt>ハッシュタグ / Hashtag</dt>
-            <dd><a href="https://twitter.com/search?q=%23jjug_ccc" target="blank">#jjug_ccc</a>（セッションごとのハッシュタグあり / We will also use separate hashtags for each session）</dd>
+            <dd><a href="https://twitter.com/search?q=%23jjug_ccc" target="blank" rel="noopener">#jjug_ccc</a>（セッションごとのハッシュタグあり / We will also use separate hashtags for each session）</dd>
         </div>
     </div>
 );

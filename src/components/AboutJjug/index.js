@@ -18,8 +18,8 @@ const AboutJjug = () => (
     </dl>
     <div>
       <p>
-        詳しくはJJUGの<a href="http://www.java-users.jp/">オフィシャルサイト</a>や<a href="https://jjug.doorkeeper.jp/">コミュニティページ（DoorKeeper）</a>を確認してください。 /
-        Please check JJUG <a href="http://www.java-users.jp/">official website</a> and <a href="https://jjug.doorkeeper.jp/">community page (DoorKeeper)</a> for more detail information.
+        詳しくはJJUGの<a href="http://www.java-users.jp/" target="blank" rel="noopener">オフィシャルサイト</a>や<a href="https://jjug.doorkeeper.jp/" target="blank" rel="noopener">コミュニティページ（DoorKeeper）</a>を確認してください。 /
+        Please check JJUG <a href="http://www.java-users.jp/" target="blank" rel="noopener">official website</a> and <a href="https://jjug.doorkeeper.jp/" target="blank" rel="noopener">community page (DoorKeeper)</a> for more detail information.
       </p>
     </div>
   </div>
