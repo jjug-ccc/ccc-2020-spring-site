@@ -1,7 +1,6 @@
 import React from 'react'
 import Helmet from 'react-helmet'
 import Offerings from '../Offerings'
-import Testimonials from '../Testimonials'
 import PropTypes from 'prop-types'
 import CccDescription from "../CccDescription";
 import AboutJjug from "../AboutJjug";
@@ -13,7 +12,6 @@ const HomePageTemplate = ({
   offerings,
   meta_title,
   meta_description,
-  testimonials,
 }) => (
   <div>
     <Helmet>
@@ -45,7 +43,6 @@ const HomePageTemplate = ({
                 <CccDescription/>
                 <h3 className='has-text-weight-semibold is-size-3'>JJUGについて / About JJUG</h3>
                 <AboutJjug/>
-                <Testimonials testimonials={testimonials} />
                 <Offerings gridItems={offerings.blurbs} />
                 <div>
                   <h3 className='has-text-weight-semibold is-size-2'>
@@ -72,7 +69,6 @@ HomePageTemplate.propTypes = {
   offerings: PropTypes.shape({
     blurbs: PropTypes.array,
   }),
-  testimonials: PropTypes.array,
 };
 
 export default HomePageTemplate
