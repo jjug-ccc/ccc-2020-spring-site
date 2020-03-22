@@ -15,7 +15,7 @@ const NavBar = ({ toggleNavbar, isActive }) => (
       <nav className='navbar is-fixed-top' aria-label='main navigation'>
         <div className='navbar-brand'>
           <Link to='/' className='navbar-item'>
-            <strong>JJUG CCC 2020 Spring</strong>
+            <img src={'/img/jjug_logo.png'} alt={'jjug logo'} />
           </Link>
           <button
             className={`button navbar-burger ${isActive ? 'is-active' : ''}`}
