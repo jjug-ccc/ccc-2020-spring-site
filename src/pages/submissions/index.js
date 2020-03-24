@@ -22,29 +22,26 @@ const SubmissionsPage = ({
         </div>
       </div>
     </section>
-    {allInternalSubmissions.group.map(({ edges }, ...index) => (
-      <section className='section' key={index}>
-        <div className='container'>
-          <h3 className='title is-size-4'>初心者向け</h3>
-          <div className='table-container'>
-            <table className='table is-bordered'>
-              <thead>
-              <tr>
-                <th>タイトル</th>
-                <th>スピーカー</th>
+    <section className='section'>
+      <div className='container'>
+        <div className='table-container'>
+          <table className='table is-bordered'>
+            <thead>
+            <tr>
+              <th>タイトル</th>
+              <th>スピーカー</th>
+            </tr>
+            </thead>
+            {allInternalSubmissions.nodes.map(( data ) => (
+              <tr key={data.id}>
+                <td><Link to={`/submissions/${kebabCase(data.id)}/`}>{data.title}</Link></td>
+                <td>名前</td>
               </tr>
-              </thead>
-              {edges.map(({ node } ) => (
-                <tr key={node.id}>
-                  <td><Link to={`/submissions/${kebabCase(node.id)}/`}>{node.title}</Link></td>
-                  <td>名前</td>
-                </tr>
-              ))}
-            </table>
-          </div>
+            ))}
+          </table>
         </div>
-      </section>
-    ))}
+      </div>
+    </section>
   </Layout>
 );
 
@@ -52,17 +49,13 @@ export default SubmissionsPage
 
 export const submissionPageQuery = graphql`
   query allInternalSubmissionsQuery {
-    allInternalSubmissions {
-      group(field: level) {
-        edges {
-          node {
-            level
-            id
-            title
-            speakers {
-              name
-            }
-          }
+    allInternalSubmissions(filter: {id: {ne: "dummy"}}) {
+      nodes {
+        id
+        level
+        title
+        speakers {
+          name
         }
       }
     }
