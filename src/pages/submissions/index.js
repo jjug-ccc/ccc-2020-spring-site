@@ -3,7 +3,6 @@ import { kebabCase } from 'lodash'
 import Helmet from 'react-helmet'
 import { Link, graphql } from 'gatsby'
 import Layout from '../../components/Layout'
-import {func} from "prop-types";
 
 const joinedName = ( speakers ) => speakers.map((speaker) => (speaker.name)).join('／');
 
