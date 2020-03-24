@@ -10,7 +10,7 @@ const SubmissionsPage = ({
   data: { allInternalSubmissions },
 }) => (
   <Layout>
-    <Helmet title={`Submissions |`} />
+    <Helmet title={`Submissions | JJUG CCC 2020 Spring`} />
     <section className='hero is-primary is-bold is-medium'>
       <div className='hero-body'>
         <div className='container'>
