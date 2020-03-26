@@ -5,18 +5,18 @@ import Layout from '../../components/Layout'
 
 const joinedName = ( speakers ) => speakers.map((speaker) => (speaker.name)).join('／');
 
-const SubmissionsPage = ({
+const SessionsPage = ({
   data: { allInternalSubmissions },
 }) => (
   <Layout>
-    <Helmet title={`Submissions | JJUG CCC 2020 Spring`} />
+    <Helmet title={`Sessions | JJUG CCC 2020 Spring`} />
     <section className='hero is-primary is-bold is-medium'>
       <div className='hero-body'>
         <div className='container'>
           <div className='columns'>
             <div className='column is-10 is-offset-1'>
               <div className='section'>
-                <h1 className='title'>セッション一覧</h1>
+                <h1 className='title'>Sessions</h1>
               </div>
             </div>
           </div>
@@ -35,7 +35,7 @@ const SubmissionsPage = ({
             </thead>
             {allInternalSubmissions.nodes.map(( data ) => (
               <tr key={data.id}>
-                <td><Link to={`/submissions/${data.id}/`}>{data.title}</Link></td>
+                <td><Link to={`/sessions/${data.id}/`}>{data.title}</Link></td>
                 <td>{ joinedName(data.speakers) }</td>
               </tr>
             ))}
@@ -46,10 +46,10 @@ const SubmissionsPage = ({
   </Layout>
 );
 
-export default SubmissionsPage
+export default SessionsPage
 
-export const submissionPageQuery = graphql`
-  query allInternalSubmissionsQuery {
+export const sessionsPageQuery = graphql`
+  query allInternalSessionsQuery {
     allInternalSubmissions(filter: {id: {ne: "dummy"}}) {
       nodes {
         id
