@@ -2,6 +2,7 @@ import React, { Component } from 'react'
 import Helmet from 'react-helmet'
 import { Link, graphql } from 'gatsby'
 import Layout from '../components/Layout'
+import { Remarkable } from 'remarkable';
 
 function ActivityList(props) {
   if (props.activityList.length <= 0) {
@@ -19,6 +20,11 @@ function ActivityList(props) {
 }
 
 class SessionRoute extends Component {
+  rawMarkUp(value) {
+    const markDown = new Remarkable();
+    const rawMarkup = markDown.render(value);
+    return { __html: rawMarkup };
+  }
   render () {
     const post = this.props.data.allInternalSubmissions.edges[0].node;
     const title = this.props.data.site.siteMetadata.title;
@@ -41,7 +47,7 @@ class SessionRoute extends Component {
                 <h4 className='is-size-4'>カテゴリ / Category</h4>
                 <p>{post.category}</p>
                 <h4 className='is-size-4'>概要 / Description</h4>
-                <p>{post.description}</p>
+                <p dangerouslySetInnerHTML={this.rawMarkUp(post.description)} />
                 <h4 className='is-size-4'>スピーカー / Speaker</h4>
                 {post.speakers.map((speaker, speakerIndex) => {
                   return (
@@ -51,11 +57,9 @@ class SessionRoute extends Component {
                       </figure>
                       <div className='media-content'>
                         <div className='content'>
-                          <p>
-                            <strong>{speaker.name}</strong> <small>{speaker.companyOrCommunity}</small>
-                            <br />
-                            {speaker.bio}
-                          </p>
+                          <strong>{speaker.name}</strong> <small>{speaker.companyOrCommunity}</small>
+                          <br />
+                          <p dangerouslySetInnerHTML={this.rawMarkUp(speaker.bio)} />
                         </div>
                         <ActivityList activityList={speaker.activityList} postId={post.id} speakerIndex={speakerIndex} />
                       </div>
