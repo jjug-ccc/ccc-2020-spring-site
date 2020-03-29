@@ -205,6 +205,7 @@ module.exports = {
             serialize (ctx) {
               return ctx.query.allInternalSubmissions.edges
                 .map(edge => ({
+                  id: edge.node.id,
                   title: edge.node.title,
                   level: edge.node.level,
                   target: edge.node.target,
@@ -215,10 +216,12 @@ module.exports = {
                       profileUrl: edge.node.speakers.profileUrl,
                       name: edge.node.speakers.name,
                       companyOrCommunity: edge.node.speakers.companyOrCommunity,
-                      activityList: {
-                        url: edge.node.speakers.activityList.url,
-                        activityType: edge.node.speakers.activityList.activityType
-                      },
+                      activityList: [
+                        {
+                          url: edge.node.speakers.activityList.url,
+                          activityType: edge.node.speakers.activityList.activityType
+                        },
+                      ],
                       bio: edge.node.speakers.profileUrl,
                     }
                   ],
